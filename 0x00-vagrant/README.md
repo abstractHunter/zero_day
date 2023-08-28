@@ -1,0 +1,4 @@
+# Vagrant
+
+### Command: uname
+	=> Linux
